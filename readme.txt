@@ -1,4 +1,3 @@
-```text
 # Quantity Measurement API
 
 A Node.js + Express + PostgreSQL backend application for performing quantity measurement operations such as:
@@ -369,22 +368,5 @@ The application follows layered architecture:
 - Model Layer
 - Database Layer
 
---------------------------------------------------
-FUTURE IMPROVEMENTS
---------------------------------------------------
-
-- Role Based Authorization
-- Swagger API Documentation
-- Unit Testing
-- Docker Support
-- Logging System
-- Refresh Tokens
-- Pagination
-- Rate Limiting
-
---------------------------------------------------
-AUTHOR
---------------------------------------------------
 
 Developed using Node.js, Express.js, Sequelize, and PostgreSQL.
-```
